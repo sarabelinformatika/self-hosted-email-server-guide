@@ -1,7 +1,7 @@
 # Self-Hosted Email Server Guide
 
 <p align="center">
-  <img src="./images/self-hosted-email-server-guide.jpg" alt="Self-Hosted Email Server Guide cover" width="1200">
+  <img src="images/self-hosted-email-server-guide.jpg" alt="Self-Hosted Email Server Guide">
 </p>
 
 An operations-first, security-focused guide for designing, deploying, validating, and recovering a self-hosted email platform on Debian 13.

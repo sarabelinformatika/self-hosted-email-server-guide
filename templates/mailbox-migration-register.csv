@@ -1,0 +1,2 @@
+mailbox_id,source,target,owner,size_bytes,initial_sync_utc,delta_sync_utc,folders_validated,send_receive_validated,exceptions,approved
+MBX-EXAMPLE,user@example.net,user@example.com,service-owner,0,,,,,synthetic row only,no

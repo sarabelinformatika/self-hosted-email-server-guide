@@ -1,0 +1,2 @@
+change_id,record_name,type,old_value,new_value,ttl,owner,approver,scheduled_utc,validated_utc,rollback_value,status
+CHG-EXAMPLE,example.com,MX,,10 mail.example.com,3600,dns-team,service-owner,2026-01-01T00:00:00Z,,,draft

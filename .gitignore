@@ -1,0 +1,11 @@
+*.log
+*.pem
+*.key
+*.p12
+*.sql
+*.tar
+*.tar.gz
+evidence/
+secrets/
+.env
+.DS_Store

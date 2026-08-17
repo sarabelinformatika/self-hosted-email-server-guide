@@ -1,6 +1,6 @@
 # Self-Hosted Email Server Guide
 
-![Self-Hosted Email Server Guide cover](https://raw.githubusercontent.com/sarabelinformatika/self-hosted-email-server-guide/main/images/self-hosted-email-server-guide.jpg)
+<p align="center">\n  <img src="https://github.com/sarabelinformatika/self-hosted-email-server-guide/raw/refs/heads/main/images/self-hosted-email-server-guide.jpg" alt="Self-Hosted Email Server Guide cover" width="1200">\n</p>
 
 An operations-first, security-focused guide for designing, deploying, validating, and recovering a self-hosted email platform on Debian 13.
 

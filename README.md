@@ -4,6 +4,20 @@
   <img src="images/self-hosted-email-server-guide.jpg" alt="Self-Hosted Email Server Guide">
 </p>
 
+![Platform](https://img.shields.io/badge/Platform-Debian%2013-A81D33?style=flat-square)
+![Mail](https://img.shields.io/badge/Mail-Postfix%20%7C%20Dovecot-0078D4?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Rspamd%20%7C%20TLS-2EA44F?style=flat-square)
+![Scope](https://img.shields.io/badge/Scope-Production-2EA44F?style=flat-square)
+![Method](https://img.shields.io/badge/Method-Build%20%7C%20Validate%20%7C%20Recover-0086C9?style=flat-square)
+
+[![Release](https://img.shields.io/github/v/release/sarabelinformatika/self-hosted-email-server-guide?style=flat-square&label=release)](https://github.com/sarabelinformatika/self-hosted-email-server-guide/releases)
+[![Stars](https://img.shields.io/github/stars/sarabelinformatika/self-hosted-email-server-guide?style=flat-square)](https://github.com/sarabelinformatika/self-hosted-email-server-guide/stargazers)
+[![Forks](https://img.shields.io/github/forks/sarabelinformatika/self-hosted-email-server-guide?style=flat-square)](https://github.com/sarabelinformatika/self-hosted-email-server-guide/network/members)
+
+[![Issues](https://img.shields.io/github/issues/sarabelinformatika/self-hosted-email-server-guide?style=flat-square)](https://github.com/sarabelinformatika/self-hosted-email-server-guide/issues)
+[![Last commit](https://img.shields.io/github/last-commit/sarabelinformatika/self-hosted-email-server-guide?style=flat-square)](https://github.com/sarabelinformatika/self-hosted-email-server-guide/commits/main)
+[![License](https://img.shields.io/github/license/sarabelinformatika/self-hosted-email-server-guide?style=flat-square)](LICENSE)
+
 An operations-first, security-focused guide for designing, deploying, validating, and recovering a self-hosted email platform on Debian 13.
 
 The reference architecture uses Postfix, Dovecot, MariaDB, Rspamd, Redis, Roundcube, Nginx, and ACME certificates. It is deliberately vendor-neutral at the DNS, monitoring, backup, and identity boundaries.
